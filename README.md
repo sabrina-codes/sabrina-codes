@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabrina-codes
+- 👋 Hi, I’m sabrina
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ...(Twitter)(https://twitter.com/sabrinamuse7)
