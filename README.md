@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sabrina-codes
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me ...(Twitter)(https://twitter.com/sabrinamuse7)
+- ✨ pronouns .. she/her
+- 🥰 fun fact.. i love reading books 💛
